@@ -1,8 +1,25 @@
-# Week 1 Screenshots
+message box
+This is a simple C# program that displays a "Hello World" message using a MessageBox.
 
-This folder is used to store screenshots captured during Week 1 practice.
+MessageBox.Show() is used to display a message box.
 
-## Purpose
-- Save evidence of code output
-- Track progress and examples
-- Keep visual notes for exercises and projects
+"Hello World" is the message shown to the user.
+
+// is used to write a comment in C#.
+
+Output
+
+When the program runs, a message box appears with:
+
+Hello World
+
+close
+This simple C# code is used to close the current Windows Form.
+
+this refers to the current form.
+
+Close() is a method used to close the form.
+
+When this.Close(); runs, the current form will be closed.
+
+This code is commonly used for a Close or Exit button in a C# Windows Forms application.
